@@ -1,0 +1,86 @@
+#middle{
+    text-align: center;
+}
+
+h1{
+    color: red;
+}
+
+#thankyou{
+    text-align: center;
+    
+    
+}
+
+table{
+    border-style: dashed;
+    
+}
+
+.sno{
+    text-align: center;
+}
+#pincode{
+    -webkit-text-security: disc;
+}
+
+#first{
+    margin: 100px;
+}
+#last{
+    margin: 104px;
+}
+
+#date{
+    margin-inline-start:39px;
+
+}
+
+#email{
+    margin-inline-start: 62px;
+}
+#number{
+    margin-inline-start: 34px;
+}
+
+#gender{
+    margin-inline-start: 130px;
+}
+#address{
+    margin-inline-start: 60px;
+}
+#city{
+    margin-inline-start: 78px;
+}
+#pincode{
+    margin-inline-start: 61px;
+}
+#state{
+    margin-inline-start:73px;
+}
+#country{
+    margin-inline-start: 59px;
+}
+#hobbies{
+    margin-inline-start: 120px;
+}
+#table{
+    margin-inline-start: 200px;
+}
+#courses{
+    margin-inline-start: 117px;
+}
+#QUALIFICATIONS{
+    text-align: center;
+}
+#blur{
+    margin-inline-start: -104px;
+    opacity: 0.5;
+}
+#blur2{
+    margin-inline-start: -100px;
+    opacity: 0.5;
+}
+.blur{
+    opacity: 0.5;
+}
